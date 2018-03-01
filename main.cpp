@@ -1,6 +1,8 @@
 #include <iostream>
 #include "LDE.h"
 using namespace std;
+//main hardcode para probar si funciona la lista
+
 int main() {
    LDE hola;
 

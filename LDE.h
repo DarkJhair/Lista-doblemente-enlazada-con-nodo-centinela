@@ -6,6 +6,8 @@
 #define EXAMENIPARCIAL_LDE_H
 
 #include "NodoL.h"
+
+//clase lista con sus variables y funciones
 class LDE {
 public:
     LDE();

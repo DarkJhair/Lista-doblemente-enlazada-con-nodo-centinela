@@ -5,6 +5,7 @@
 #include "NodoL.h"
 using namespace std;
 
+//constructor de la clase nodo inicializo las variables
 NodoL::NodoL(int num) {
     this->valueN=num;
     this->anterios=NULL;

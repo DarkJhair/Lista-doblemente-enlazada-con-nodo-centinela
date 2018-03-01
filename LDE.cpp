@@ -5,12 +5,14 @@
 using namespace std;
 #include "LDE.h"
 
+//Constructor de la lista inicializando nodo centinela para el top y el front
 LDE::LDE() {
     this->top = new NodoL(-1);
     this->front = new NodoL(-1);
 
 }
 
+//funcion para agregar un nodo a la lista de manera descendente
 void LDE::add(NodoL * num) {
     if(top->valueN==-1){
         top=num;
@@ -35,6 +37,7 @@ void LDE::add(NodoL * num) {
 
 }
 
+//funcion para eliminar un nodo segun el valor que este tenga
 void LDE::delet(int n) {
     NodoL * temp=top;
     NodoL *temp2=front;
@@ -66,14 +69,17 @@ void LDE::delet(int n) {
 
 }
 
+//con esta funcion obtengo el ultmo elemento de la lista
 int LDE::getfront() {
     return front->valueN;
 }
 
+// con esta funcion obtengo el primer elemento de la lista
 int LDE::gettop() {
     return  top->valueN;
 }
 
+//esta funcion es para restar el primer y el ultimo nodo de la lista
 int LDE::maxDif() {
     return gettop()-getfront();
 }

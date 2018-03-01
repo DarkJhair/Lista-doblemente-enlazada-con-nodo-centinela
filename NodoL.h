@@ -5,7 +5,7 @@
 #ifndef EXAMENIPARCIAL_NODOL_H
 #define EXAMENIPARCIAL_NODOL_H
 
-
+//Esta es la clase nodo
 class NodoL {
 public:
     int valueN;
