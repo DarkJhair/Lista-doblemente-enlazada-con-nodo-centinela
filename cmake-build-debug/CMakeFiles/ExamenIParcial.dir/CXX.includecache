@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jhair/Documents/Ide Proyectos/Clion/ExamenIParcial/HashTable.cpp
+iostream
+-
+HashTable.h
+C:/Users/Jhair/Documents/Ide Proyectos/Clion/ExamenIParcial/HashTable.h
+
+C:/Users/Jhair/Documents/Ide Proyectos/Clion/ExamenIParcial/HashTable.h
+NodoL.h
+C:/Users/Jhair/Documents/Ide Proyectos/Clion/ExamenIParcial/NodoL.h
+
+C:/Users/Jhair/Documents/Ide Proyectos/Clion/ExamenIParcial/LDE.cpp
+iostream
+-
+LDE.h
+C:/Users/Jhair/Documents/Ide Proyectos/Clion/ExamenIParcial/LDE.h
+
+C:/Users/Jhair/Documents/Ide Proyectos/Clion/ExamenIParcial/LDE.h
+NodoL.h
+C:/Users/Jhair/Documents/Ide Proyectos/Clion/ExamenIParcial/NodoL.h
+
+C:/Users/Jhair/Documents/Ide Proyectos/Clion/ExamenIParcial/NodoL.cpp
+iostream
+-
+NodoL.h
+C:/Users/Jhair/Documents/Ide Proyectos/Clion/ExamenIParcial/NodoL.h
+
+C:/Users/Jhair/Documents/Ide Proyectos/Clion/ExamenIParcial/NodoL.h
+
+C:/Users/Jhair/Documents/Ide Proyectos/Clion/ExamenIParcial/main.cpp
+iostream
+-
+LDE.h
+C:/Users/Jhair/Documents/Ide Proyectos/Clion/ExamenIParcial/LDE.h
+

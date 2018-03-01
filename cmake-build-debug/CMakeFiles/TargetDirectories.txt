@@ -1,0 +1,3 @@
+C:/Users/Jhair/Documents/Ide Proyectos/Clion/ExamenIParcial/cmake-build-debug/CMakeFiles/ExamenIParcial.dir
+C:/Users/Jhair/Documents/Ide Proyectos/Clion/ExamenIParcial/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jhair/Documents/Ide Proyectos/Clion/ExamenIParcial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
